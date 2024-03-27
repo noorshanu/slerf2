@@ -18,19 +18,7 @@ const Intro = () => {
 
         <p></p>
 
-          <div className=" flex flex-col sm:flex-row justify-center gap-4 mt-8 ">
-            <span className="text-[50px] sm:text-[100px] font-kid font-bold text-white">
-              LP BURNT
-            </span>{" "}
-            <span className="text-[50px] sm:text-[100px] font-kid font-bold text-white">
-              {" "}
-              0% TAX{" "}
-            </span>{" "}
-            <span className=" text-[50px] sm:text-[100px] font-kid font-bold text-white">
-              {" "}
-              Mint Revoked
-            </span>
-          </div>
+     
         </div>
       </div>
     </>
