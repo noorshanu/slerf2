@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section className=" pt-10 sm:pt-[8rem]  pb-[1rem]">
       <div className="container-wrapper flex justify-center flex-col ">
-        <div className=" flex justify-center mx-auto mt-[4rem]  gap-4">
+        <div className=" flex justify-center mx-auto mt-[4rem]  gap-4 flex-col sm:flex-row">
           <div className="w-full">
             <img
               src="images/hero.png"
